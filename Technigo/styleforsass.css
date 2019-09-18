@@ -1,0 +1,27 @@
+body {
+  background-color: #272C35;
+}
+h1 {
+  color: #CF649A;
+  font-family: "Gochi Hand";
+}
+h2 {
+  color: #CF649A;
+  font-family: "Gochi Hand";
+}
+p {
+  color: #ffffff;
+  font-family: "Century Gothic", sans-serif;
+}
+a {
+  color: #997F99;
+  font-family: "Century Gothic", sans-serif;
+}
+a:hover {
+  color: #CF649A;
+  font-family: "Century Gothic", sans-serif;
+}
+li {
+  color: #ffffff;
+  font-family: "Century Gothic", sans-serif;
+}
